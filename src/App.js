@@ -237,3 +237,5 @@ function WatchedMovie({ movie }) {
     </li>
   );
 }
+
+// Component Categories
