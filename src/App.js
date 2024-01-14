@@ -239,3 +239,4 @@ function WatchedMovie({ movie }) {
 }
 
 // Component Categories
+// Component Composition
