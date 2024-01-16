@@ -245,3 +245,4 @@ function WatchedMovie({ movie }) {
 
 // Component Categories
 // Component Composition
+// Passing Elements as Props (Alternative to children)
