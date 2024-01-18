@@ -117,3 +117,5 @@ EMPTY STAR
 </svg>
 
 */
+
+// Props as a Component API
