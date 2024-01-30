@@ -255,3 +255,4 @@ function WatchedMovie({ movie }) {
 // Component Composition
 // Passing Elements as Props (Alternative to children)
 // The Component Lifecycle
+// A First Look at Effects
