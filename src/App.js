@@ -57,7 +57,7 @@ export default function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState("");
 
-  const query = "sfsf";
+  const query = "matrix";
 
   const KEY = "6e788c35";
 
@@ -297,3 +297,4 @@ function WatchedMovie({ movie }) {
 // Passing Elements as Props (Alternative to children)
 // The Component Lifecycle
 // A First Look at Effects
+// The useEffect Dependency Array
