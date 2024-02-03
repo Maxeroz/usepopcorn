@@ -486,3 +486,4 @@ function WatchedMovie({ movie, onDeleteWatched }) {
 // The Component Lifecycle
 // A First Look at Effects
 // The useEffect Dependency Array
+// The useEffect Cleanup Function
