@@ -520,3 +520,4 @@ function WatchedMovie({ movie, onDeleteWatched }) {
 // A First Look at Effects
 // The useEffect Dependency Array
 // The useEffect Cleanup Function
+// React Hooks and Their Rules
