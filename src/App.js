@@ -479,3 +479,4 @@ function WatchedMovie({ movie, onDeleteWatched }) {
 // The useEffect Dependency Array
 // The useEffect Cleanup Function
 // React Hooks and Their Rules
+// useState Summary
