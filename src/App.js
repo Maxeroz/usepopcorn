@@ -480,3 +480,4 @@ function WatchedMovie({ movie, onDeleteWatched }) {
 // The useEffect Cleanup Function
 // React Hooks and Their Rules
 // useState Summary
+// Introducing Another Hook: useRef
